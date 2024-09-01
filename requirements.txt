@@ -1,0 +1,6 @@
+#Include all dependencies needed to run the project.
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
