@@ -1,0 +1,12 @@
+Description:
+This project involves creating comprehensive teaching materials for an AI workshop aimed at introducing participants to key AI concepts, tools, and hands-on coding exercises. The materials will include presentation slides, example code, and assignments that help participants grasp foundational AI skills. This workshop targets beginners to intermediate learners and covers topics such as data preprocessing, basic machine learning models, and AI applications.
+
+
+
+Repository Name: AI Workshop Materials
+Folder Structure:
+/slides/ - Presentation slides in PDF or PPT format.
+/code/ - Example code scripts used during the workshop.
+/assignments/ - Assignments for participants to complete.
+README.md - Detailed guide explaining the workshop objectives, target audience, and expected learning outcomes.
+/notebooks/ - Jupyter notebooks for interactive coding sessions.
