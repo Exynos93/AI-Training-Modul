@@ -1,1 +1,1 @@
-# AI-Training-Modul
+# House Price Prediction using Scikit-Learn
