@@ -1,0 +1,13 @@
+This project serves as a comprehensive tutorial designed for beginners to intermediate learners who want to understand the foundational concepts of neural networks and learn how to implement them using PyTorch. The project walks through the basics of neural networks, setting up PyTorch, and building a simple neural network model for image classification.
+
+Repository Structure
+
+notebooks/
+Introduction_to_Neural_Networks.ipynb: Main Jupyter Notebook containing the tutorial.
+data/
+Sample data for training the neural network (e.g., MNIST or CIFAR-10).
+scripts/
+train.py: Python script for training the neural network model.
+predict.py: Script for making predictions using the trained model.
+README.md
+A detailed guide explaining the purpose, methods, and steps of the tutorial.
