@@ -1,1 +1,21 @@
+Sentiment Analysis on Twitter Data
+
+ Project Overview
+This project focuses on sentiment analysis of Twitter data to classify tweets as positive, negative, or neutral. The goal is to build a model that can accurately predict the sentiment of tweets based on the text.
+
+Dataset
+The dataset used in this project is a collection of tweets with corresponding sentiment labels (positive, negative, neutral). The data is preprocessed to remove noise and prepare it for model training.
+
+Methods
+1. Data Preprocessing: Cleaning the text, tokenization, removing stop words, and vectorizing the text using TF-IDF.
+2. Model Training: Training various models, including Logistic Regression, Random Forest, and SVM, to find the best-performing one.
+3. Evaluation: Evaluating models based on accuracy, precision, recall, and F1-score.
+
+Results
+The best-performing model achieved an accuracy of 85% on the test set, showing strong performance in identifying sentiment accurately.
+
+How to Run
+1. Clone the repository: `git clone https://github.com/yourusername/Sentiment-Analysis-on-Twitter-Data.git`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the notebooks in order to reproduce the results.
 
